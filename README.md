@@ -4,7 +4,7 @@
 
 # Description
 
-CS101 is an adopted version of Harvard’s renowned CS50, widely regarded as the best introductory computer science course in the world. This course preserves the original quality and rigor of CS50 while making it more accessible for students by providing structured support, lectures, and materials in Dari and Pashto. You'll learn essential programming and problem-solving skills, all with guidance in your native language to ensure a smooth and engaging learning experience.
+CS101 is an adapted version of Harvard’s renowned CS50, widely regarded as the best introductory computer science course in the world. This course preserves the original quality and rigor of CS50 while making it more accessible for students by providing structured support, lectures, and materials in Dari and Pashto. You'll learn essential programming and problem-solving skills, all with guidance in your native language to ensure a smooth and engaging learning experience.
 
 # 
 
